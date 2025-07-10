@@ -1,9 +1,5 @@
 <!-- GGKEYS profile README -->
 
-<p align="center">
-  <img src="https://ggkeys.com/wp-content/uploads/2024/08/ggkeys-logo-dark.svg" alt="GGKEYS Logo" height="120"/>
-</p>
-
 <h1 align="center">GGKEYS</h1>
 <p align="center"><em>Instant digital goods · Open‑source e‑commerce innovation</em></p>
 
